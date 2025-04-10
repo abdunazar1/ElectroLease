@@ -1,0 +1,35 @@
+{
+  "port": 3000,
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_password": "5432",
+  "db_port": 5432,
+  "db_name": "electroLease",
+
+  "tokenKey": "MyVeryVerySecretKey",
+  "tokenTime": 86400,
+
+  
+  "access_key": "AdminAcccessTokenSecretyKey",
+  "refresh_key": "AdminRefreshTokenSecretyKey",
+  "access_time": "15h",
+  "refresh_time": "15d",
+  "refresh_cookie_time": 1296000000,
+
+  "access_key_client": "ClientAcccessTokenSecretyKey",
+  "refresh_key_client": "ClientRefreshTokenSecretyKey",
+  "access_time_client": "15h",
+  "refresh_time_client": "15d",
+
+
+  "access_key_owner": "OwnertAcccessTokenSecretyKey",
+  "refresh_key_owner": "OwnerRefreshTokenSecretyKey",
+  "access_time_owner": "15h",
+  "refresh_time_owner": "15d",
+
+  "smtp_password": "klurnedeqtylqpta",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "abdunazarnorqulov79@gmail.com",
+  "api_url": "http://localhost:3000"
+}
