@@ -1,0 +1,1188 @@
+2025-04-08 08:24:16 [ElectroLease] ERROR: uncaughtException: alogOutClient is not defined
+ReferenceError: alogOutClient is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:20:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:15:13 [ElectroLease] ERROR: uncaughtException: Identifier 'errorHandler' has already been declared
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:27
+const { errorHandler } = require("../../helpers/error_handler");
+        ^
+
+SyntaxError: Identifier 'errorHandler' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:15:27 [ElectroLease] ERROR: uncaughtException: Identifier 'errorHandler' has already been declared
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:27
+const { errorHandler } = require("../../helpers/error_handler");
+        ^
+
+SyntaxError: Identifier 'errorHandler' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:03 [ElectroLease] ERROR: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:19
+    const decodedToken =await  jwt.verify(token, config.get("access_key"));
+                        ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:06 [ElectroLease] ERROR: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:19
+    const decodedToken =await jwt jwt.verify(token, config.get("access_key"));
+                        ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:16 [ElectroLease] ERROR: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:19
+    const decodedToken =await jwtService jwt.verify(token, config.get("access_key"));
+                        ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:17 [ElectroLease] ERROR: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:19
+    const decodedToken =await jwtService. jwt.verify(token, config.get("access_key"));
+                        ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:19 [ElectroLease] ERROR: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:19
+    const decodedToken =await jwtService.ver jwt.verify(token, config.get("access_key"));
+                        ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:20 [ElectroLease] ERROR: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:19
+    const decodedToken =await jwtService.verfiyAccessToken jwt.verify(token, config.get("access_key"));
+                        ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:26 [ElectroLease] ERROR: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:19
+    const decodedToken =await jwtService.verfiyAccessToken(token) jwt.verify(token, config.get("access_key"));
+                        ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:32 [ElectroLease] ERROR: uncaughtException: Identifier 'errorHandler' has already been declared
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:27
+const { errorHandler } = require("../../helpers/error_handler");
+        ^
+
+SyntaxError: Identifier 'errorHandler' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:33 [ElectroLease] ERROR: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:19
+    const decodedToken =await jwtService.verfiyAccessToken(token) jwt.verify(token, config.get("access_key"));
+                        ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:34 [ElectroLease] ERROR: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:19
+    const decodedToken =await jwtService.verfiyAccessToken(token) //jwt.verify(token, config.get("access_key"));
+                        ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:38 [ElectroLease] ERROR: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:19
+    const decodedToken = await jwtService.verfiyAccessToken(token) //jwt.verify(token, config.get("access_key"));
+                         ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:42 [ElectroLease] ERROR: uncaughtException: Unexpected token '{'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:5
+module.exports = asyncfunction (req, res, next) {
+                                                ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 09:16:43 [ElectroLease] ERROR: uncaughtException: Identifier 'errorHandler' has already been declared
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:27
+const { errorHandler } = require("../../helpers/error_handler");
+        ^
+
+SyntaxError: Identifier 'errorHandler' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 10:08:36 [ElectroLease] ERROR: uncaughtException: logOutClient is not defined
+ReferenceError: logOutClient is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/clients.controller.js:274:3)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:12:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 10:23:58 [ElectroLease] ERROR: uncaughtException: Invalid regular expression: missing /
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:5
+const Client = require("./clients.model"); /
+                                           ^
+
+SyntaxError: Invalid regular expression: missing /
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js:2:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 10:24:05 [ElectroLease] ERROR: uncaughtException: Cannot find module './'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:5:16)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:26:27 [ElectroLease] ERROR: uncaughtException: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:26:29 [ElectroLease] ERROR: uncaughtException: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:26:41 [ElectroLease] ERROR: uncaughtException: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:26:43 [ElectroLease] ERROR: uncaughtException: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:26:47 [ElectroLease] ERROR: uncaughtException: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:26:49 [ElectroLease] ERROR: uncaughtException: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:26:56 [ElectroLease] ERROR: uncaughtException: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:27:00 [ElectroLease] ERROR: uncaughtException: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:27:03 [ElectroLease] ERROR: uncaughtException: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './contract_items.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/product.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:28:22 [ElectroLease] ERROR: uncaughtException: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:28:27 [ElectroLease] ERROR: uncaughtException: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:28:28 [ElectroLease] ERROR: uncaughtException: Product.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Product.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Product.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:63:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:28:34 [ElectroLease] ERROR: uncaughtException: Product.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Product.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Product.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:63:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:29:57 [ElectroLease] ERROR: uncaughtException: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:5:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:30:04 [ElectroLease] ERROR: uncaughtException: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:5:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:30:07 [ElectroLease] ERROR: uncaughtException: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:5:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:30:12 [ElectroLease] ERROR: uncaughtException: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module './product.model'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/categories.controller.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:5:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-08 10:30:14 [ElectroLease] ERROR: uncaughtException: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Wishlist.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:49:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:30:23 [ElectroLease] ERROR: uncaughtException: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Wishlist.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:48:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:30:28 [ElectroLease] ERROR: uncaughtException: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Wishlist.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:48:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:30:50 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:34
+      defaultValue: DataTypes.,
+                              ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 10:30:52 [ElectroLease] ERROR: uncaughtException: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Wishlist.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:48:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:30:55 [ElectroLease] ERROR: uncaughtException: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Wishlist.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:48:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:30:59 [ElectroLease] ERROR: uncaughtException: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Wishlist.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:48:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:31:05 [ElectroLease] ERROR: uncaughtException: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Wishlist.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:48:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:31:40 [ElectroLease] ERROR: uncaughtException: Product.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Product.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Product.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:63:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:32:17 [ElectroLease] ERROR: uncaughtException: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: Wishlist.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Wishlist.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/wishlist.model.js:48:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:33:34 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:33:53 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:33:58 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:01 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:04 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:08 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:10 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:13 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:18 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:21 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:25 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:33 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:35 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:34:40 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 10:50:02 [ElectroLease] ERROR: uncaughtException: Category.hasMany called with something that's not a subclass of Sequelize.Model
+Error: Category.hasMany called with something that's not a subclass of Sequelize.Model
+    at Category.hasMany (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:13:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/category.model.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/Product.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 11:31:17 [ElectroLease] ERROR: uncaughtException: contract.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: contract.belongsTo called with something that's not a subclass of Sequelize.Model
+    at contract.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/sequelize/lib/associations/mixin.js:63:13)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/contracts.model.js:51:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/contract_item.model.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-04-08 12:05:11 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:23
+    }
+    ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 12:12:27 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/owner.controller.js:158
+    };
+    ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 12:36:34 [ElectroLease] ERROR: uncaughtException: Unexpected token ':'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/owner.controller.js:164
+      : tokens.accessOwnerToken,
+      ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 12:47:17 [ElectroLease] ERROR: uncaughtException: Unexpected token ')'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/owner.controller.js:170
+   console.log(res.);
+                   ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 12:57:51 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/owner.controller.js:188
+    console.log(token: );
+                ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 12:57:56 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/owner.controller.js:188
+    console.log(token: refresh);
+                ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 12:57:59 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/owner.controller.js:188
+    console.log(token: refresh_token);
+                ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 12:58:02 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/owner.controller.js:188
+    console.log(token: refresh_token.);
+                ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 12:58:06 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/owner.controller.js:188
+    console.log(token: refresh_token.accessOwnerToken);
+                ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-08 12:58:11 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/owner.controller.js:188
+    console.log(token: refresh_token.refreshTokenOwner);
+                ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 10:34:55 [ElectroLease] ERROR: uncaughtException: Cannot create property 'Symbol(level)' on string 'Server started at: http://localhost:3000'
+TypeError: Cannot create property 'Symbol(level)' on string 'Server started at: http://localhost:3000'
+    at DerivedLogger.log (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/winston/lib/winston/logger.js:214:20)
+    at Server.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:27:14)
+    at Object.onceWrapper (node:events:632:28)
+    at Server.emit (node:events:530:35)
+    at emitListeningNT (node:net:1951:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)

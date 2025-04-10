@@ -1,0 +1,329 @@
+2025-04-07T16:55:42.964Z [ElectroLease] info: Server started at: http://localhost:3000
+2025-04-07T16:56:12.119Z [ElectroLease] info: GET /api/admin 403 - 15ms
+2025-04-07T16:57:03.802Z [ElectroLease] info: Server started at: http://localhost:3000
+{"label":"ElectroLease","level":"info","message":"Server started at: http://localhost:3000","timestamp":"2025-04-07T16:57:08.789Z"}
+{"label":"ElectroLease","level":"info","message":"Server started at: http://localhost:3000","timestamp":"2025-04-07T16:57:17.350Z"}
+2025-04-07 22:03:32 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:03:39 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:03:48 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:04:00 [ElectroLease] INFO: GET /api/admin 403 - 13ms
+2025-04-07 22:06:50 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:06:55 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:07:00 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:07:00 [ElectroLease] INFO: GET /api/admin 500 - 12ms
+2025-04-07 22:07:33 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:07:38 [ElectroLease] INFO: GET /api/admin 403 - 14ms
+2025-04-07 22:11:50 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:12:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:12:07 [ElectroLease] ERROR: [GET] /api/admin Ruxsat yo'q - Error: Ruxsat yo'q
+    at ApiError.forbidden (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/api.error.js:16:12)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/role.guard.js:7:30
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.guard.js:21:5)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-07 22:12:07 [ElectroLease] INFO: GET /api/admin 403 - 16ms
+2025-04-07 22:12:28 [ElectroLease] INFO: GET /api/admin/1 403 - 4ms
+2025-04-07 22:18:48 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:30:22 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:30:26 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:30:40 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:30:57 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:31:01 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:32:16 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:33:08 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:33:28 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:33:36 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:40:05 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:40:14 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:40:35 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:41:00 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:41:16 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:42:08 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:42:39 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:42:45 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:42:46 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:42:52 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:44:31 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 22:45:01 [ElectroLease] INFO: GET /api/client 200 - 25ms
+2025-04-07 22:45:25 [ElectroLease] INFO: POST /api/client/login 400 - 21ms
+2025-04-07 22:46:21 [ElectroLease] INFO: POST /api/client/login 400 - 76ms
+2025-04-07 22:47:01 [ElectroLease] INFO: POST /api/client/login 200 - 86ms
+2025-04-07 23:09:06 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:09:27 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:09:28 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:09:30 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:11:28 [ElectroLease] INFO: POST /api/owner/login 400 - 45ms
+2025-04-07 23:14:56 [ElectroLease] INFO: GET /api/owner 200 - 13ms
+2025-04-07 23:16:14 [ElectroLease] INFO: POST /api/owner/login 200 - 66ms
+2025-04-07 23:16:41 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:16:47 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:16:51 [ElectroLease] INFO: POST /api/owner/login 200 - 67ms
+2025-04-07 23:17:26 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:17:29 [ElectroLease] INFO: POST /api/owner/login 200 - 67ms
+2025-04-07 23:18:13 [ElectroLease] INFO: POST /api/owner/logout 400 - 12ms
+2025-04-07 23:18:33 [ElectroLease] INFO: POST /api/owner/logout 400 - 10ms
+2025-04-07 23:19:34 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:19:36 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:20:14 [ElectroLease] ERROR: refreshOwnerToken is not defined
+2025-04-07 23:20:14 [ElectroLease] INFO: POST /api/owner/logout 400 - 3ms
+2025-04-07 23:22:10 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:22:13 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:22:19 [ElectroLease] ERROR: Invalid value [AsyncFunction: refreshTokenOwner]
+2025-04-07 23:22:19 [ElectroLease] INFO: POST /api/owner/logout 400 - 7ms
+2025-04-07 23:23:24 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:23:34 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:23:39 [ElectroLease] INFO: POST /api/owner/login 200 - 66ms
+2025-04-07 23:24:47 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-07 23:25:07 [ElectroLease] INFO: POST /api/owner/login 200 - 77ms
+2025-04-07 23:25:24 [ElectroLease] ERROR: Invalid value [AsyncFunction: refreshTokenOwner]
+2025-04-07 23:25:24 [ElectroLease] INFO: POST /api/owner/logout 400 - 2ms
+2025-04-07 23:35:04 [ElectroLease] ERROR: Invalid access token
+2025-04-07 23:35:04 [ElectroLease] INFO: POST /api/client/logout 400 - 2ms
+2025-04-07 23:35:14 [ElectroLease] INFO: POST /api/client/login 200 - 86ms
+2025-04-07 23:35:34 [ElectroLease] ERROR: Invalid access token
+2025-04-07 23:35:34 [ElectroLease] INFO: POST /api/client/logout 400 - 1ms
+2025-04-07 23:37:11 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:22:52 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:23:20 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:23:23 [ElectroLease] ERROR: Invalid access token
+2025-04-08 00:23:23 [ElectroLease] INFO: POST /api/client/logout 400 - 5ms
+2025-04-08 00:24:24 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:24:28 [ElectroLease] ERROR: Invalid access token
+2025-04-08 00:24:28 [ElectroLease] INFO: POST /api/client/logout 400 - 3ms
+2025-04-08 00:25:30 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:25:34 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:26:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:26:27 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:26:35 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:27:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:28:23 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:28:34 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:28:37 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:28:46 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:29:31 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:29:32 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:29:49 [ElectroLease] INFO: POST /api/client/logout 400 - 28ms
+2025-04-08 00:44:43 [ElectroLease] INFO: POST /api/admin/login 200 - 146ms
+2025-04-08 00:45:02 [ElectroLease] INFO: POST /api/admin/logout 200 - 32ms
+2025-04-08 00:45:55 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:46:10 [ElectroLease] INFO: POST /api/client/login 200 - 98ms
+2025-04-08 00:46:32 [ElectroLease] ERROR: invalid signature
+2025-04-08 00:46:32 [ElectroLease] INFO: POST /api/client/logout 400 - 2ms
+2025-04-08 00:59:39 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 00:59:44 [ElectroLease] ERROR: Validation error
+2025-04-08 00:59:44 [ElectroLease] INFO: POST /api/client/register 400 - 185ms
+2025-04-08 01:01:10 [ElectroLease] ERROR: Validation error
+2025-04-08 01:01:10 [ElectroLease] INFO: POST /api/client/register 400 - 78ms
+2025-04-08 01:01:45 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:01:51 [ElectroLease] ERROR: Validation error
+2025-04-08 01:01:51 [ElectroLease] INFO: POST /api/client/register 400 - 87ms
+2025-04-08 01:02:40 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:02:46 [ElectroLease] ERROR: Validation error
+2025-04-08 01:13:22 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:26:57 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:27:01 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:27:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:27:06 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:27:08 [ElectroLease] ERROR: Validation error
+2025-04-08 01:27:20 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:27:31 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:28:18 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:28:21 [ElectroLease] ERROR: Validation error
+2025-04-08 01:44:59 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:45:02 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:45:07 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 01:45:42 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:22:22 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:24:19 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:26:38 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:26:41 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:26:44 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:30:50 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:30:52 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:34:42 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:34:46 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:34:49 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:34:51 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:34:53 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:36:11 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:48:27 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:52:39 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 08:52:54 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:02:37 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:15:24 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:17:02 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:18:19 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:18:22 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:19:46 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:20:23 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:20:30 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:23:26 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:23:30 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:23:32 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:34:07 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:35:24 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:35:27 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:35:29 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:35:41 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:35:47 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:35:49 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:35:52 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:36:58 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:37:00 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:37:10 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:37:12 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:37:18 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:37:24 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:37:50 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:38:11 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:38:33 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:38:46 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:39:09 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:39:13 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:39:25 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:39:28 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:39:33 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:39:37 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:39:41 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:39:46 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:39:49 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:39:51 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:40:10 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:40:40 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:40:46 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:40:49 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:40:54 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:41:02 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:41:06 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:41:27 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:41:38 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 09:44:17 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:05:34 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:08:42 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:11:36 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:11:39 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:11:43 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:11:49 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:11:56 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:12:00 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:12:15 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:12:20 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:23:27 [ElectroLease] ERROR: Server start error: cannot drop column product_id of table products because other objects depend on it
+2025-04-08 10:24:01 [ElectroLease] ERROR: Server start error: cannot drop column product_id of table products because other objects depend on it
+2025-04-08 10:24:12 [ElectroLease] ERROR: Server start error: cannot drop column product_id of table products because other objects depend on it
+2025-04-08 10:24:27 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:24:35 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 10:27:08 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:06:43 [ElectroLease] ERROR: Server start error: column "created_at" of relation "clients" contains null values
+2025-04-08 11:08:57 [ElectroLease] ERROR: Server start error: relation "contracts" does not exist
+2025-04-08 11:10:08 [ElectroLease] ERROR: Server start error: relation "contracts" does not exist
+2025-04-08 11:40:42 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:41:52 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:42:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:47:15 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:47:21 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:48:50 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:48:55 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:48:56 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:49:00 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:50:04 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:50:28 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:50:32 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:50:35 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:51:44 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:51:51 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:51:55 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:54:04 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:54:35 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 11:56:06 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:04:35 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:04:44 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:04:49 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:04:51 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:04:55 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:04:57 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:05:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:05:07 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:05:08 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:05:16 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:06:20 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:06:22 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:09:45 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:11:57 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:12:01 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:12:06 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:12:29 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:12:31 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:12:32 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:12:33 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:13:08 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:13:14 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:21:04 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:21:06 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:21:08 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:21:12 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:21:13 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:35:37 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:35:39 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:35:42 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:35:59 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:36:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:36:38 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:36:44 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:36:49 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:36:52 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:36:58 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:37:00 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:37:30 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:40:40 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:42:41 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:42:43 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:42:47 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:43:01 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:44:22 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:44:41 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:45:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:45:28 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:45:42 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:45:47 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:46:20 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:46:35 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:46:37 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:47:04 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:47:06 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:47:11 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:47:16 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:47:19 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:47:21 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:47:33 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:49:31 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:49:33 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:49:40 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:49:44 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:49:45 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:49:59 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:50:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:50:05 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:50:07 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:52:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:52:07 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:52:11 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:52:40 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:52:46 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:53:26 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:53:38 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:53:41 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:54:03 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:55:15 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:57:28 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:57:49 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:58:16 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:58:17 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 12:58:35 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 13:02:05 [ElectroLease] INFO: Server started at: http://localhost:3000
+2025-04-08 13:02:06 [ElectroLease] INFO: Server started at: http://localhost:3000
