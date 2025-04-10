@@ -24,7 +24,8 @@ async function start() {
     });
   } catch (error) {
     
-    logger.log(error);
+    // logger.log(error);
+    console.log(error);
   }
 }
 
