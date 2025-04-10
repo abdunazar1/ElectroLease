@@ -34,10 +34,10 @@ logger.exceptions.handle(
   })
 );
 
-logger.rejections.handle(
-  new transports.File({
-    filename: path.join(__dirname, "../log/rejections.log"),
-  })
-);
+// logger.rejections.handle(
+//   new transports.File({
+//     filename: path.join(__dirname, "../log/rejections.log"),
+//   })
+// );
 
 module.exports = logger;
