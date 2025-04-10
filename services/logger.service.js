@@ -1,13 +1,14 @@
 const { createLogger, format, transports } = require("winston");
-const { combine, timestamp, label, printf, json } = format;
+const { combine, timestamp, label, printf } = format;
 const path = require("path");
 
 const myFormat = printf(({ level, message, label, timestamp }) => {
-  return `${timestamp} [${label}] ${level.toUpperCase()}: ${message}`;
+  const safeLevel = level ? level.toUpperCase() : "UNKNOWN";
+  return `${timestamp} [${label}] ${safeLevel}: ${message}`;
 });
 
 const logger = createLogger({
-  level: "info", 
+  level: "info",
   format: combine(
     label({ label: "ElectroLease" }),
     timestamp({ format: "YYYY-MM-DD HH:mm:ss" }),
@@ -24,7 +25,7 @@ const logger = createLogger({
       level: "info",
     }),
   ],
-  exitOnError: false, 
+  exitOnError: false,
 });
 
 logger.exceptions.handle(
