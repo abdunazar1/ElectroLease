@@ -16,11 +16,14 @@ module.exports = async function (req, res, next) {
       return res.status(403).send({ message: "Bearer yoki token berilmagan" });
     }
 
+    
     const decodedToken = await jwtService.verifyAccessToken(token);
+    console.log(decodedToken);
 
     req.user = decodedToken;
     next();
   } catch (error) {
+    return res.status(403).send({ message: "invalid",error });
     errorHandler(error, res);
   }
 };

@@ -9,16 +9,16 @@ const {
 } = require("../controller/contract_item.controller");
 const authClientGuard = require("../middleware/guards/auth.Client.guard");
 const authAdminGuard = require("../middleware/guards/auth.Admin.guard");
-const adminIsadminGuard = require("../middleware/guards/admin.isadmin.guard");
+const clientSelfGuard = require("../middleware/guards/client.self.guard");
 
-router.post("/",authClientGuard,addNewContractItem);
+router.post("/", authClientGuard, addNewContractItem);
 
 router.get("/", authAdminGuard, getAllContractItems);
 
-router.get("/:id", authAdminGuard,getContractItemById);
+router.get("/:id", authClientGuard, clientSelfGuard, getContractItemById);
 
-router.put("/:id", authClientGuard, updateContractItemById);
+router.put("/:id", authClientGuard, clientSelfGuard, updateContractItemById);
 
-router.delete("/:id", authAdminGuard, deleteContractItemById);
+router.delete("/:id", authClientGuard, clientSelfGuard, deleteContractItemById);
 
 module.exports = router;

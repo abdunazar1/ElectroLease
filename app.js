@@ -4,6 +4,7 @@ const Sequelize = require("./config/db");
 const indexRouter = require("./routes/index.routes");
 const cookieParser = require("cookie-parser");
 const logger = require("./services/logger.service");
+const errorHandling = require("./middleware/error/error.handling");
 
 const PORT = config.get("port") || 3030;
 
@@ -13,6 +14,7 @@ app.use(cookieParser());
 
 app.use("/api", indexRouter);
 
+app.use(errorHandling);
 
 async function start() {
   try {
@@ -23,9 +25,7 @@ async function start() {
       console.log(`Server started at: http://localhost:${PORT}`);
     });
   } catch (error) {
-    
-    // logger.log(error);
-    console.log(error);
+    logger.error(error);
   }
 }
 

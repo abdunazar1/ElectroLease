@@ -12,9 +12,8 @@ const {
 } = require("../controller/clients.controller");
 
 const clientAuth = require("../middleware/guards/auth.Client.guard");
-const adminAuth = require("../middleware/guards/auth.Admin.guard");
-const roleGuard = require("../middleware/guards/admin.role.guard");
 const clientSelfGuard = require("../middleware/guards/client.self.guard");
+const authAdminGuard = require("../middleware/guards/auth.Admin.guard");
 
 const router = express.Router();
 
@@ -26,15 +25,11 @@ router.post("/refresh", refreshTokenClient);
 router.get("/activate/:link", activateClient);
 
 router.get("/:id", clientAuth, clientSelfGuard, getClientById);
+router.get("/foradmin/:id", authAdminGuard, getClientById);
 router.put("/:id", clientAuth, clientSelfGuard, updateClientById);
 
-router.get("/", adminAuth, roleGuard(["admin", "superadmin"]), getAllClients);
-router.delete(
-  "/:id",
-  adminAuth,
-  roleGuard(["admin", "superadmin"]),
-  deleteClientById
-);
+router.get("/", authAdminGuard, getAllClients);
+router.delete("/:id", authAdminGuard, deleteClientById);
 
 module.exports = router;
 

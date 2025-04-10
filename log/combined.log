@@ -1,0 +1,415 @@
+2025-04-10 13:31:03 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:19:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 13:31:03 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:24:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 13:33:16 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:19:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 13:33:16 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:24:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 13:34:40 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:19:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 13:34:40 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:24:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 13:35:51 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:19:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 13:35:51 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:25:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 13:36:10 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 13:36:10 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:25:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 13:38:06 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 13:38:06 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:25:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:07:22 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 14:07:22 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:25:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:14:38 [ElectroLease] ERROR: Cannot read properties of undefined (reading 'role')
+TypeError: Cannot read properties of undefined (reading 'role')
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.role.guard.js:7:36
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:47:12)
+2025-04-10 14:14:38 [ElectroLease] ERROR: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.role.guard.js:12:7
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+2025-04-10 14:17:55 [ElectroLease] ERROR: Cannot read properties of undefined (reading 'role')
+TypeError: Cannot read properties of undefined (reading 'role')
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.role.guard.js:7:36
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:47:12)
+2025-04-10 14:17:55 [ElectroLease] ERROR: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.role.guard.js:12:7
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+2025-04-10 14:19:23 [ElectroLease] ERROR: Cannot read properties of undefined (reading 'role')
+TypeError: Cannot read properties of undefined (reading 'role')
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.role.guard.js:7:28
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:47:12)
+2025-04-10 14:19:23 [ElectroLease] ERROR: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.role.guard.js:15:7
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+2025-04-10 14:20:16 [ElectroLease] ERROR: Cannot read properties of undefined (reading 'role')
+TypeError: Cannot read properties of undefined (reading 'role')
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.role.guard.js:7:28
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:47:12)
+2025-04-10 14:20:16 [ElectroLease] ERROR: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.role.guard.js:15:7
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+2025-04-10 14:21:55 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 14:21:55 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:27:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:30:42 [ElectroLease] ERROR: errorHandler is not defined
+ReferenceError: errorHandler is not defined
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.isadmin.guard.js:11:5)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:47:12)
+2025-04-10 14:31:09 [ElectroLease] ERROR: Cannot read properties of undefined (reading 'role')
+TypeError: Cannot read properties of undefined (reading 'role')
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.isadmin.guard.js:5:18)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:47:12)
+2025-04-10 14:31:09 [ElectroLease] ERROR: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.isadmin.guard.js:13:5)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+2025-04-10 14:33:19 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 14:33:19 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:27:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:41:08 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 14:41:08 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:27:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:44:05 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 14:44:05 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:31:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:45:44 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 14:45:44 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:32:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:48:52 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 14:48:52 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:32:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:50:02 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 14:50:02 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:32:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:53:49 [ElectroLease] ERROR: invalid signature
+JsonWebTokenError: invalid signature
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:171:19
+    at getSecret (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/jsonwebtoken/verify.js:101:10)
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:24:16)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+2025-04-10 14:53:49 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:32:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:55:39 [ElectroLease] ERROR: Access token noto'g'ri yoki muddatdan o'tgan
+Error: Access token noto'g'ri yoki muddatdan o'tgan
+    at JwtService.verifyAccessToken (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/services/jwt.service.js:31:13)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:20:43)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:95:5)
+    at /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:175:3)
+2025-04-10 14:55:39 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:6:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:32:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 14:57:23 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:5:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:32:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 15:00:20 [ElectroLease] ERROR: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/helpers/error_handler.js:8:7)
+    at module.exports (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:32:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-04-10 15:07:23 [ElectroLease] ERROR: Expected ',' or '}' after property value in JSON at position 60

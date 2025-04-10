@@ -8,7 +8,6 @@ module.exports = function (req, res, next) {
         message: "Faqat o'z ma'lumotlaringizni ko'rish/yangilash mumkin!",
       });
     }
-
     next();
   } catch (error) {
     errorHandler(error, res);

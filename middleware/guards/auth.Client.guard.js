@@ -1,5 +1,5 @@
 const { errorHandler } = require("../../helpers/error_handler");
-const jwtClientService = require("../../services/jwt.client.service"); 
+const jwtClientService = require("../../services/jwt.client.service");
 
 module.exports = async function (req, res, next) {
   try {
@@ -28,6 +28,6 @@ module.exports = async function (req, res, next) {
     console.log(decodedToken);
     next();
   } catch (error) {
-    errorHandler(error, res);
+    return res.status(403).send("Faqat Clientlar uchun!");
   }
 };

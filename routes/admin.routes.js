@@ -27,6 +27,8 @@ router.post("/refresh", refreshTokenAdmin);
 router.get("/", authGuard, roleGuard(["superadmin"]), getAllAdmins);
 
 router.get("/:id", authGuard, adminSelfGuard, getAdminById);
+router.get("/forsuperadmin/:id", authGuard, roleGuard(["superadmin"]), getAdminById);
+
 
 router.put("/:id", authGuard, adminSelfGuard, updateAdminById);
 

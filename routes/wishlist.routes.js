@@ -9,16 +9,17 @@ const {
 const authAdminGuard = require("../middleware/guards/auth.Admin.guard");
 const router = express.Router();
 
-const authClientGuard = require("../middleware/guards/auth.Client.guard")
+const authClientGuard = require("../middleware/guards/auth.Client.guard");
+const clientSelfGuard = require("../middleware/guards/client.self.guard");
 
 router.post("/",authClientGuard, addNewWishlistItem);
 
 router.get("/", authClientGuard, getAllWishlistItems);
 
-router.get("/client/:client_id", getWishlistByClientId);
+router.get("/",authClientGuard,clientSelfGuard, getWishlistByClientId);
 
-router.delete("/:wishlist_id", authAdminGuard, deleteWishlistItem);
+router.delete("/:id", authClientGuard, clientSelfGuard, deleteWishlistItem);
 
-router.put("/:wishlist_id",authClientGuard, updateWishlistItem);
+router.put("/:id", authClientGuard, clientSelfGuard, updateWishlistItem);
 
 module.exports = router;

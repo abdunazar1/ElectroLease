@@ -10,14 +10,15 @@ const {
 } = require("../controller/payments.controller");
 const authClientGuard = require("../middleware/guards/auth.Client.guard");
 const authAdminGuard = require("../middleware/guards/auth.Admin.guard");
+const clientSelfGuard = require("../middleware/guards/client.self.guard");
 
 router.post("/", authClientGuard, addNewPayment);
 
 router.get("/", authAdminGuard, getAllPayments);
 
-router.get("/:id", authAdminGuard, getPaymentById);
+router.get("/:id", authClientGuard,clientSelfGuard, getPaymentById);
 
-router.put("/:id", authAdminGuard, updatePaymentById);
+router.put("/:id", authClientGuard,clientSelfGuard , updatePaymentById);
 
 router.delete("/:id", authAdminGuard, deletePaymentById);
 

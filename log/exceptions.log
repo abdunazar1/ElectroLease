@@ -256,3 +256,2166 @@ TypeError: app.use() requires a middleware function
     at Module._load (node:internal/modules/cjs/loader:1104:12)
     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
     at node:internal/main/run_main_module:28:49
+2025-04-10 12:57:29 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 12:57:30 [ElectroLease] ERROR: uncaughtException: lo is not defined
+ReferenceError: lo is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:18:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 12:57:31 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 12:57:34 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:16:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 12:58:05 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:16:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 12:58:11 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:16:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 12:58:20 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:16:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 12:58:23 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:16:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 12:58:25 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:16:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 12:58:28 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:17:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 12:58:33 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:17:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 13:26:24 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 13:33:16 [ElectroLease] ERROR: uncaughtException: write after end
+Error: write after end
+    at writeAfterEnd (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:264:12)
+    at Writable.write (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:300:21)
+    at File.log (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/winston/lib/winston/transports/file.js:222:34)
+    at RejectionStream._write (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/winston/lib/winston/rejection-stream.js:46:29)
+    at doWrite (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+    at writeOrBuffer (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:381:5)
+    at Writable.write (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:302:11)
+    at DerivedLogger.ondata (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:530:35)
+    at addChunk (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_readable.js:279:12)
+2025-04-10 13:34:29 [ElectroLease] ERROR: uncaughtException: auth is not defined
+ReferenceError: auth is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:31:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 13:34:34 [ElectroLease] ERROR: uncaughtException: authAdminGuard is not defined
+ReferenceError: authAdminGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:31:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:19:39 [ElectroLease] ERROR: uncaughtException: Unexpected token ')'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.role.guard.js:7
+      console.log(req.user.);
+                           ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:14:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:21:51 [ElectroLease] ERROR: uncaughtException: authroleGuard is not defined
+ReferenceError: authroleGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:32:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:21:52 [ElectroLease] ERROR: uncaughtException: authAdminGuardroleGuard is not defined
+ReferenceError: authAdminGuardroleGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:32:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:22:22 [ElectroLease] ERROR: uncaughtException: clie is not defined
+ReferenceError: clie is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:32:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:27:10 [ElectroLease] ERROR: uncaughtException: Unexpected token ')'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/admin.isadmin.guard.js:5
+  if (req.user.role !== ["admin") {
+                                ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js:13:27)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:30:25 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:32
+router.get("/", , roleGuard(["admin", "superadmin"]), getAllClients);
+                ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:30:34 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:32
+router.get("/",  isa getAllClients);
+                 ^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:30:36 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:32
+router.get("/",  adminIsadminGuard getAllClients);
+                 ^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:33:07 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:33
+router.get("/", ,adminIsadminGuard, getAllClients);
+                ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:33:14 [ElectroLease] ERROR: uncaughtException: authAdmin is not defined
+ReferenceError: authAdmin is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:33:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:41:08 [ElectroLease] ERROR: uncaughtException: write after end
+Error: write after end
+    at writeAfterEnd (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:264:12)
+    at Writable.write (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:300:21)
+    at File.log (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/winston/lib/winston/transports/file.js:222:34)
+    at RejectionStream._write (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/winston/lib/winston/rejection-stream.js:46:29)
+    at doWrite (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+    at writeOrBuffer (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:381:5)
+    at Writable.write (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:302:11)
+    at DerivedLogger.ondata (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:530:35)
+    at addChunk (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_readable.js:279:12)
+2025-04-10 14:45:17 [ElectroLease] ERROR: uncaughtException: Unexpected token 'if'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:22
+    if (decodedToken.role !== "admin") {
+    ^^
+
+SyntaxError: Unexpected token 'if'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 14:50:02 [ElectroLease] ERROR: uncaughtException: write after end
+Error: write after end
+    at writeAfterEnd (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:264:12)
+    at Writable.write (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:300:21)
+    at File.log (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/winston/lib/winston/transports/file.js:222:34)
+    at RejectionStream._write (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/winston/lib/winston/rejection-stream.js:46:29)
+    at doWrite (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+    at writeOrBuffer (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:381:5)
+    at Writable.write (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_writable.js:302:11)
+    at DerivedLogger.ondata (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:530:35)
+    at addChunk (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/readable-stream/lib/_stream_readable.js:279:12)
+2025-04-10 14:59:14 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:17:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 14:59:15 [ElectroLease] ERROR: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/application.js:217:11)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:17:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 15:02:00 [ElectroLease] ERROR: uncaughtException: Unexpected identifier 'res'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Admin.guard.js:26
+    eturn res.status(403).send({ message: "Bearer yoki token berilmagan" });
+          ^^^
+
+SyntaxError: Unexpected identifier 'res'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:07:04 [ElectroLease] ERROR: uncaughtException: errorHandler is not defined
+ReferenceError: errorHandler is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:16:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 15:07:10 [ElectroLease] ERROR: uncaughtException: errorH is not defined
+ReferenceError: errorH is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:16:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 15:07:12 [ElectroLease] ERROR: uncaughtException: errorHand is not defined
+ReferenceError: errorHand is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:16:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 15:07:15 [ElectroLease] ERROR: uncaughtException: errorHandling is not defined
+ReferenceError: errorHandling is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js:16:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:173:12)
+    at node:internal/main/run_main_module:28:49
+2025-04-10 15:13:03 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:33
+router.get("/", authAdminGuard, , getAllClients);
+                                ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:13:04 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:33
+router.get("/", authAdminGuard, , getAllClients);adminIsadminGuard
+                                ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:13:06 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:33
+router.get("/", authAdminGuard, , getAllClients);//adminIsadminGuard
+                                ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:13:17 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:33
+router.get("/", , , getAllClients);//adminIsadminGuard
+                ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:13:19 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:33
+router.get("/",  , getAllClients);//adminIsadminGuard
+                 ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:13:22 [ElectroLease] ERROR: uncaughtException: role is not defined
+ReferenceError: role is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:33:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:13:37 [ElectroLease] ERROR: uncaughtException: adminRoleGuard is not defined
+ReferenceError: adminRoleGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:33:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:15:17 [ElectroLease] ERROR: uncaughtException: Cannot find module '../middleware/guards/admin.role.guard'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module '../middleware/guards/admin.role.guard'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:14:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-10 15:16:26 [ElectroLease] ERROR: uncaughtException: roleGuard is not defined
+ReferenceError: roleGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:18:26)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:3:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:17:52 [ElectroLease] ERROR: uncaughtException: Cannot find module '../middleware/guards/admin.role.guard'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+Error: Cannot find module '../middleware/guards/admin.role.guard'
+Require stack:
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js
+- /home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:14:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-10 15:33:12 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/clients.controller.js:242
+    });
+    ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:12:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:38:57 [ElectroLease] ERROR: uncaughtException: auth is not defined
+ReferenceError: auth is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:31:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:39:06 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:31
+router.get("/byid/:id", authAdminGuard, , getClientById);
+                                        ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:39:33 [ElectroLease] ERROR: uncaughtException: is is not defined
+ReferenceError: is is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:31:41)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:39:35 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:31
+router.get("/byid/:id", authAdminGuard, , getClientById);
+                                        ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:48:58 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:34
+router.get("/",auth  getAllClients);
+               ^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:48:59 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:34
+router.get("/",authAdminGuard  getAllClients);
+               ^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:49:36 [ElectroLease] ERROR: uncaughtException: Unexpected token ')'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:40
+);
+^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:49:41 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:38
+,
+^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:51:32 [ElectroLease] ERROR: uncaughtException: ge is not defined
+ReferenceError: ge is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:30:55)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:3:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:51:34 [ElectroLease] ERROR: uncaughtException: get is not defined
+ReferenceError: get is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:30:55)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:3:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:51:38 [ElectroLease] ERROR: uncaughtException: getAdmin is not defined
+ReferenceError: getAdmin is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/admin.routes.js:30:55)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:3:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:56:17 [ElectroLease] ERROR: uncaughtException: adminAuth is not defined
+ReferenceError: adminAuth is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:32:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:56:23 [ElectroLease] ERROR: uncaughtException: admin is not defined
+ReferenceError: admin is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:32:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:56:35 [ElectroLease] ERROR: uncaughtException: auth is not defined
+ReferenceError: auth is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:32:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:57:13 [ElectroLease] ERROR: uncaughtException: roleGuard is not defined
+ReferenceError: roleGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:38:3)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:57:30 [ElectroLease] ERROR: uncaughtException: Unexpected token ')'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:40
+); 
+^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:57:33 [ElectroLease] ERROR: uncaughtException: roleGuard is not defined
+ReferenceError: roleGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:49:3)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:58:08 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:34
+router.post("/refresh", , refreshTokenOwner); // refresh
+                        ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:58:11 [ElectroLease] ERROR: uncaughtException: roleGuard is not defined
+ReferenceError: roleGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:49:3)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:58:16 [ElectroLease] ERROR: uncaughtException: roleGuard is not defined
+ReferenceError: roleGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:49:3)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:58:19 [ElectroLease] ERROR: uncaughtException: roleGuard is not defined
+ReferenceError: roleGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:49:3)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 15:58:30 [ElectroLease] ERROR: uncaughtException: roleGuard is not defined
+ReferenceError: roleGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:45:3)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:00:23 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/owner.routes.js:45
+  authOwnerGuard,,
+                 ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:01:18 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js:16
+router.post("/register", authAdminGuard,, addNewCategory);
+                                        ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:6:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:01:21 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js:15
+router.post("/register", authAdminGuard,, addNewCategory);
+                                        ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:6:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:01:24 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/category.routes.js:14
+router.post("/register", authAdminGuard,, addNewCategory);
+                                        ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:6:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:02:48 [ElectroLease] ERROR: uncaughtException: aaddNewStatus is not defined
+ReferenceError: aaddNewStatus is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/status.routes.js:7:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:02:51 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/status.routes.js:7
+router.post("/", ,addNewStatus);
+                 ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:06:27 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/status.routes.js:7
+router.post("/"admin,addNewStatus);
+            ^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:06:29 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/status.routes.js:7
+router.post("/"a,addNewStatus);
+            ^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:06:35 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/status.routes.js:7
+router.post("/"auth,addNewStatus);
+            ^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:06:37 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/status.routes.js:7
+router.post("/"authAdminGuard,addNewStatus);
+            ^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:06:38 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/status.routes.js:8
+router.post("/"authAdminGuard,addNewStatus);
+            ^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:07:12 [ElectroLease] ERROR: uncaughtException: authAdminGuardgetAllStatus is not defined
+ReferenceError: authAdminGuardgetAllStatus is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/status.routes.js:14:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:07:29 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/status.routes.js:16
+router.put("/:id", ,updateStatusById);
+                   ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:07:39 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/status.routes.js:17
+router.delete("/:id",authAdminGuard deleteStatusById);
+                     ^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:09:07 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js:21
+router.put("/:id", , updateProductById);
+                   ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:8:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:09:17 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js:21
+router.put("/:id", authOwnerGuard,, updateProductById);
+                                  ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:8:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:09:22 [ElectroLease] ERROR: uncaughtException: ownerse is not defined
+ReferenceError: ownerse is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js:21:35)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:8:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:09:24 [ElectroLease] ERROR: uncaughtException: ownerSelfGuard is not defined
+ReferenceError: ownerSelfGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js:21:35)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:8:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:10:14 [ElectroLease] ERROR: uncaughtException: auth is not defined
+ReferenceError: auth is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js:24:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:8:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:10:19 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js:24
+router.delete("/:id", authOwnerGuard,,s deleteProductById);
+                                     ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:8:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:10:21 [ElectroLease] ERROR: uncaughtException: s is not defined
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js:24:38)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:8:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:10:23 [ElectroLease] ERROR: uncaughtException: self is not defined
+ReferenceError: self is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/product.routes.js:24:38)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:8:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:11:55 [ElectroLease] ERROR: uncaughtException: auth is not defined
+ReferenceError: auth is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:18:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:00 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:18
+router.get("/:id", authClientGuard,, getPaymentById);
+                                   ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:02 [ElectroLease] ERROR: uncaughtException: sel is not defined
+ReferenceError: sel is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:18:36)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:04 [ElectroLease] ERROR: uncaughtException: s is not defined
+ReferenceError: s is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:18:36)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:05 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:18
+router.get("/:id", authClientGuard,, getPaymentById);
+                                   ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:12 [ElectroLease] ERROR: uncaughtException: selfClir is not defined
+ReferenceError: selfClir is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:18:36)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:14 [ElectroLease] ERROR: uncaughtException: selfClie is not defined
+ReferenceError: selfClie is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:18:36)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:17 [ElectroLease] ERROR: uncaughtException: selfC is not defined
+ReferenceError: selfC is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:18:36)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:21 [ElectroLease] ERROR: uncaughtException: client is not defined
+ReferenceError: client is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:18:36)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:23 [ElectroLease] ERROR: uncaughtException: clientSelfGuard is not defined
+ReferenceError: clientSelfGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:18:36)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:35 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:21
+router.put("/:id", , updatePaymentById);
+                   ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:12:46 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/payments.routes.js:21
+router.put("/:id", authClientGuard,clientSelfGuard,  , updatePaymentById);
+                                                     ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:19:58 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/wishlist.routes.js:18
+router.get("/",, getWishlistByClientId);
+               ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:10:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:20:02 [ElectroLease] ERROR: uncaughtException: clie is not defined
+ReferenceError: clie is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/wishlist.routes.js:18:16)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:10:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:20:08 [ElectroLease] ERROR: uncaughtException: auth is not defined
+ReferenceError: auth is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/wishlist.routes.js:18:16)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:10:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:20:12 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/wishlist.routes.js:18
+router.get("/",authClientGuard,, getWishlistByClientId);
+                               ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:10:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:20:23 [ElectroLease] ERROR: uncaughtException: cle is not defined
+ReferenceError: cle is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/wishlist.routes.js:18:32)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:10:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:20:25 [ElectroLease] ERROR: uncaughtException: cl is not defined
+ReferenceError: cl is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/wishlist.routes.js:18:32)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:10:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:20:27 [ElectroLease] ERROR: uncaughtException: clirn is not defined
+ReferenceError: clirn is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/wishlist.routes.js:18:32)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:10:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:20:31 [ElectroLease] ERROR: uncaughtException: clientSe is not defined
+ReferenceError: clientSe is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/wishlist.routes.js:18:32)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:10:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:20:34 [ElectroLease] ERROR: uncaughtException: clientSelfGuard is not defined
+ReferenceError: clientSelfGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/wishlist.routes.js:18:32)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:10:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:21:59 [ElectroLease] ERROR: uncaughtException: self is not defined
+ReferenceError: self is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:18:34)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:22:04 [ElectroLease] ERROR: uncaughtException: clientSelfGuard is not defined
+ReferenceError: clientSelfGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:18:34)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:22:15 [ElectroLease] ERROR: uncaughtException: auth is not defined
+ReferenceError: auth is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:19:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:23:05 [ElectroLease] ERROR: uncaughtException: auth is not defined
+ReferenceError: auth is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:21:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:05 [ElectroLease] ERROR: uncaughtException: Identifier 'module' has already been declared
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:123
+module.exports = {
+^
+
+SyntaxError: Identifier 'module' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:12 [ElectroLease] ERROR: uncaughtException: Missing initializer in const declaration
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:121
+const get
+      ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:21 [ElectroLease] ERROR: uncaughtException: Missing initializer in const declaration
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:121
+const getAll
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:24 [ElectroLease] ERROR: uncaughtException: Missing initializer in const declaration
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:121
+const getAllMy
+      ^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:25 [ElectroLease] ERROR: uncaughtException: Missing initializer in const declaration
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:121
+const getAll
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:39 [ElectroLease] ERROR: uncaughtException: Missing initializer in const declaration
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:121
+const getAllMyContract
+      ^^^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:40 [ElectroLease] ERROR: uncaughtException: Missing initializer in const declaration
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:121
+const getAllMyContracts
+      ^^^^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:42 [ElectroLease] ERROR: uncaughtException: Missing initializer in const declaration
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:121
+const getAllMyContractsFor
+      ^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:45 [ElectroLease] ERROR: uncaughtException: Missing initializer in const declaration
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:121
+const getAllMyContractsForClient
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:52 [ElectroLease] ERROR: uncaughtException: async is not defined
+ReferenceError: async is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:121:36)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:25:57 [ElectroLease] ERROR: uncaughtException: async is not defined
+ReferenceError: async is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:121:36)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:26:12 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:124
+  } catch (error) {
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:26:25 [ElectroLease] ERROR: uncaughtException: Missing initializer in const declaration
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:123
+    const clie
+          ^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:26:33 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:124
+  } catch (error) {
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:26:48 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:125
+  } catch (error) {
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:27:01 [ElectroLease] ERROR: uncaughtException: Missing initializer in const declaration
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:124
+    const contracts
+          ^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:27:03 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:125
+  } catch (error) {
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:27:10 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:125
+  } catch (error) {
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:27:16 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:125
+  } catch (error) {
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:27:40 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:124
+    const contracts = await Contracts.findAll({where:})
+                                                     ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:28:29 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:124
+    const contracts = await Contracts.findAll({where:{client_id: }})
+                                                                 ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:28:32 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:124
+    const contracts = await Contracts.findAll({where:{client_id: }})
+                                                                 ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:31:40 [ElectroLease] ERROR: uncaughtException: Unexpected token '}'
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/controller/contracts.controller.js:124
+    const contracts = await Contracts.findAll({where:{client_id: clientId}, include: })
+                                                                                     ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:32:39 [ElectroLease] ERROR: uncaughtException: Sta is not defined
+ReferenceError: Sta is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/contracts.model.js:71:1)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/models/payments.model.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:35:22 [ElectroLease] ERROR: uncaughtException: Cannot set properties of undefined (setting 'exports')
+TypeError: Cannot set properties of undefined (setting 'exports')
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:36:14 [ElectroLease] ERROR: uncaughtException: path must be a string, array of strings, or regular expression
+TypeError: path must be a string, array of strings, or regular expression
+    at pathToRegexp (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/path-to-regexp/index.js:69:11)
+    at new Layer (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/layer.js:45:17)
+    at Function.route (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:505:15)
+    at proto.<computed> [as get] (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/node_modules/express/lib/router/index.js:520:22)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+2025-04-10 16:36:36 [ElectroLease] ERROR: uncaughtException: The argument 'id' must be a non-empty string. Received ''
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+    at Module.require (node:internal/modules/cjs/loader:1306:11)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:25:27)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+2025-04-10 16:36:50 [ElectroLease] ERROR: uncaughtException: The argument 'id' must be a non-empty string. Received ''
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+    at Module.require (node:internal/modules/cjs/loader:1306:11)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:25:27)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+2025-04-10 16:36:59 [ElectroLease] ERROR: uncaughtException: getMy is not defined
+ReferenceError: getMy is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:25:27)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:37:02 [ElectroLease] ERROR: uncaughtException: getAllMyContractsForClient is not defined
+ReferenceError: getAllMyContractsForClient is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:25:27)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:37:07 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:26
+router.get("/myProducts", ,getAllMyContractsForClient);
+                          ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:37:15 [ElectroLease] ERROR: uncaughtException: C is not defined
+ReferenceError: C is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:26:27)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:37:17 [ElectroLease] ERROR: uncaughtException: C is not defined
+ReferenceError: C is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:26:27)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:37:20 [ElectroLease] ERROR: uncaughtException: Clie is not defined
+ReferenceError: Clie is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:26:27)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:37:59 [ElectroLease] ERROR: uncaughtException: sel is not defined
+ReferenceError: sel is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:26:43)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:38:11 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contracts.routes.js:26
+router.get("/myProducts", authClientGuard,, getAllMyContractsForClient);
+                                          ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:46:24 [ElectroLease] ERROR: uncaughtException: missing ) after argument list
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/middleware/guards/auth.Client.guard.js:32
+    errorHandler(err
+                 ^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/clients.routes.js:14:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:55:56 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contract_item.routes.js:18
+router.get("/:id", ,getContractItemById);
+                   ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:13:29)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:55:58 [ElectroLease] ERROR: uncaughtException: auth is not defined
+ReferenceError: auth is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contract_item.routes.js:18:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:13:29)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:56:03 [ElectroLease] ERROR: uncaughtException: self is not defined
+ReferenceError: self is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contract_item.routes.js:18:37)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:13:29)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:56:08 [ElectroLease] ERROR: uncaughtException: clientSelfGuard is not defined
+ReferenceError: clientSelfGuard is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contract_item.routes.js:18:37)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:13:29)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:56:19 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contract_item.routes.js:21
+router.put("/:id", authClientGuard, ,updateContractItemById);
+                                    ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:13:29)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:56:20 [ElectroLease] ERROR: uncaughtException: self is not defined
+ReferenceError: self is not defined
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contract_item.routes.js:21:37)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:13:29)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-04-10 16:56:29 [ElectroLease] ERROR: uncaughtException: Unexpected token ','
+/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/contract_item.routes.js:23
+router.delete("/:id", , deleteContractItemById);
+                      ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/abdunazar/FullStack/ImtihonUchinchiOy/electroLease/routes/index.routes.js:13:29)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)

@@ -1,6 +1,8 @@
 // contracts.controller.js
 const { errorHandler } = require("../helpers/error_handler");
+const Client = require("../models/clients.model");
 const Contracts = require("../models/contracts.model");
+const Owner = require("../models/Owners.model");
 const Status = require("../models/status.model");
 const { contractValidation } = require("../validations/contracts.validation");
 
@@ -42,7 +44,9 @@ const addNewContract = async (req, res) => {
 
 const getAllContracts = async (req, res) => {
   try {
-    const contracts = await Contracts.findAll({include: {model: Status,attributes: ["name"]}});
+    const contracts = await Contracts.findAll({
+      include: { model: Status, attributes: ["name"] },
+    });
     if (!contracts.length) {
       return res.status(404).send({ message: "Shartnomalar topilmadi" });
     }
@@ -118,10 +122,25 @@ const deleteContractById = async (req, res) => {
   }
 };
 
+const getAllMyContractsForClient = async (req, res) => {
+  try {
+    const clientId = req.user.id;
+    const contracts = await Contracts.findAll({
+      where: { client_id: clientId },
+      include: [Client, Status, Owner],
+    });
+
+    res.send({ contracts });
+  } catch (error) {
+    errorHandler(error, res);
+  }
+};
+
 module.exports = {
   addNewContract,
   getAllContracts,
   getContractById,
   updateContractById,
   deleteContractById,
+  getAllMyContractsForClient,
 };

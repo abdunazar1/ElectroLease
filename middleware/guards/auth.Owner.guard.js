@@ -25,9 +25,9 @@ module.exports = async function (req, res, next) {
     }
 
     req.user = decodedToken;
-    
+
     next();
   } catch (error) {
-    errorHandler(error, res);
+    return res.status(403).send("Faqat Ownerlar  uchun!");
   }
 };

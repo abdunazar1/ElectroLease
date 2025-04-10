@@ -3,11 +3,13 @@ const jwt = require("jsonwebtoken");
 
 class JwtService {
   constructor(accessKey, refreshKey, accessTime, refreshTime) {
-    (this.accessKey = accessKey),
-      (this.refreshKey = refreshKey),
-      (this.accessTime = accessTime),
-      (this.refreshTime = refreshTime);
+    this.accessKey = accessKey;
+    this.refreshKey = refreshKey;
+    this.accessTime = accessTime;
+    this.refreshTime = refreshTime;
   }
+
+  // Token yaratish
   generateToken(payload) {
     const refreshToken = jwt.sign(payload, this.refreshKey, {
       expiresIn: this.refreshTime,
@@ -20,11 +22,23 @@ class JwtService {
       accessToken,
     };
   }
+
+  // Access tokenni tekshirish
   async verifyAccessToken(token) {
-    return jwt.verify(token, this.accessKey);
+    try {
+      return jwt.verify(token, this.accessKey);
+    } catch (error) {
+      throw new Error("Access token noto'g'ri yoki muddatdan o'tgan");
+    }
   }
+
+  // Refresh tokenni tekshirish
   async verifyRefreshToken(token) {
-    return jwt.verify(token, this.refreshKey);
+    try {
+      return jwt.verify(token, this.refreshKey);
+    } catch (error) {
+      throw new Error("Refresh token noto'g'ri yoki muddatdan o'tgan");
+    }
   }
 }
 

@@ -238,6 +238,7 @@ const refreshTokenClient = async (req, res) => {
 
     res.send({
       message: "Tokenlar yangilandi",
+      accesstoken: tokens.accessClientToken,
     });
   } catch (error) {
     errorHandler(error, res);
